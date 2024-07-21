@@ -91,7 +91,6 @@ When using this scraper, it is essential to adhere to GitHub's terms of service 
 4. **Data Privacy**: Avoid scraping personal data or sensitive information from repositories.
 
 # Contributors
-
 <a href = "https://github.com/Anonym0usWork1221/python-code-docstring-scraper/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=Anonym0usWork1221/python-code-docstring-scraper"/>
 </a>
