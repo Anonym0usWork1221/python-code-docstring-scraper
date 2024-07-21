@@ -90,7 +90,12 @@ When using this scraper, it is essential to adhere to GitHub's terms of service 
 3. **Respect Licensing**: Check the licenses of the repositories you scrape and comply with their terms.
 4. **Data Privacy**: Avoid scraping personal data or sensitive information from repositories.
 
+## Database Sample
+<a href = "images/visualizer.png">
+  <img src = "images/visualizer.png"/>
+</a>
 # Contributors
+
 <a href = "https://github.com/Anonym0usWork1221/python-code-docstring-scraper/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=Anonym0usWork1221/python-code-docstring-scraper"/>
 </a>
