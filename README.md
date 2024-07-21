@@ -94,6 +94,8 @@ When using this scraper, it is essential to adhere to GitHub's terms of service 
 <a href = "images/visualizer.png">
   <img src = "images/visualizer.png"/>
 </a>
+
+
 # Contributors
 
 <a href = "https://github.com/Anonym0usWork1221/python-code-docstring-scraper/graphs/contributors">
