@@ -4,7 +4,7 @@ This project is a GitHub scraper designed to collect Python code from repositori
 
  *  Date   : 2024/07/22
  *  Author : **__Abdul Moez__** & **__Hammad Hussain__**
- *  Version : 0.1
+ *  Version Code : 0.1
  *  Used For: JaraConverse Coding dataset creation
 
 
